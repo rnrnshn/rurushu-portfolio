@@ -208,13 +208,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/rnrnshn",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https://x.com/rnrnshn",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/olimpio-adolfo/",
   },
 ];
